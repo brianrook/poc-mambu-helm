@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  poc-loan-account-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-01-06T18:31:09.112903-07:00"
+    description: Loan Account Service POC for Mambu
+    digest: 1f710d179d3831a21b77a26d6c96a172505d374a59ed143c35ba86064cca80a8
+    name: poc-loan-account-service
+    type: application
+    urls:
+    - https://github.com/brianrook/poc-mambu-helm/poc-loan-account-service-0.1.0.tgz
+    version: 0.1.0
+  poc-loan-manager-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-01-06T18:31:09.113173-07:00"
+    description: Loan Manager Service POC for Mambu
+    digest: 6babbaf1a689f22a47afaecd42ec6d7d16609ed6b5224013c1d47ee8fe8e17bd
+    name: poc-loan-manager-service
+    type: application
+    urls:
+    - https://github.com/brianrook/poc-mambu-helm/poc-loan-manager-service-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-01-06T18:31:09.111802-07:00"
